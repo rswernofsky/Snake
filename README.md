@@ -1,5 +1,5 @@
 # Snake!
-## [Play it!](https://www.rswernofsky.com/projects/snake.html)
+[Play it!](https://rswernofsky.com/projects/snake.html)
 
 ## Instructions:
 - This game requires being on a computer to play
